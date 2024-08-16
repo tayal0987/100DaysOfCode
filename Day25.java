@@ -43,7 +43,7 @@
  * }
  * }
  */
-public class Day25 {
+public class Solution {
     public ListNode detectCycle(ListNode head) {
         ListNode Slow = head;
         ListNode Fast = head;
